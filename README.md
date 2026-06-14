@@ -5,7 +5,6 @@ This is a simple notes app built with React and Django.
 1. Python 3.9
 2. Node.js
 3. React
-4. Bidhan
 
 ## Installation
 1. Clone the repository
